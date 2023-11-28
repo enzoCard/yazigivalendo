@@ -1,0 +1,97 @@
+@media (max-width: 425px) {
+    .navbar {
+      width: 100vw;
+            
+    }
+
+    .concorra {
+      display: none;
+    }
+
+    .comoparticipar {
+       font-size: 2em;
+    }
+
+  
+    
+    
+     
+    
+
+    .main-div {
+        display: flex;
+        flex-direction: column;        
+        align-items: center;
+    }
+
+    .participar {
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      padding-top: 30px;
+      gap: 0;
+      align-items: center;      
+      width: fit-content;
+     block-size: fit-content;      
+  }
+    
+
+ 
+
+    .garoto  {      
+      width: 50vw;
+      height: 50vh;
+    }
+
+    .passos-img {      
+      width: 70%;
+      height: 70%;
+    }
+
+  
+    
+
+    .footer2 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .rodaperoxo {
+      display: flex;
+      justify-content: space-around;
+      color: white;
+      width: 100%;
+      padding: 5px;
+      background-color: #9400D3;
+  }
+
+   
+.listarodape {
+  display: flex;
+  gap:5px;
+  list-style:none;
+  font-weight: 400;
+  font-size: 10px;
+}
+
+    .yazigiperso {
+      margin-left: 2.5em;
+      margin-bottom: 1em;
+    }
+
+    .final {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .market {
+     margin: 1em 0em;
+    }
+
+  
+
+}
+
+  
